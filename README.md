@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbritoc17
 - 👀 I am interested in being front-end
-- 🌱 I am currently learning HTML5, CSS3, JAVASCRIPT
+- 🌱 I am currently learning HTML5, CSS3, JAVASCRIPT, NODEJS
 - 💞️ I am looking to collaborate in what is within my reach
 - 📫 How to contact me:
 https://www.facebook.com/JeanKrlos.17
