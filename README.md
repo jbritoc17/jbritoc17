@@ -3,8 +3,8 @@
 - 🌱 I am currently learning HTML5, CSS3, JAVASCRIPT, NODEJS
 - 💞️ I am looking to collaborate in what is within my reach
 - 📫 How to contact me:
-https://www.facebook.com/JeanKrlos.17
-https://api.whatsapp.com/send?phone=3104160372&text=hello%20how%20areyou,
+https://www.linkedin.com/in/jean-carlos-augusto-brito-cuesta-396a50241/
+
 
 <!---
 jbritoc17/jbritoc17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
