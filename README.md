@@ -31,7 +31,7 @@
 - [GitHub](https://github.com/jbritoc17)
 
 ---
-![Portada](ruta/a/tu/portada (2).png)
+![Portada](https://github.com/jbritoc17/jbritoc17/raw/main/portada%20(2).png)
 
 
 *"Cada paso me acerca a mi mejor versión."*
