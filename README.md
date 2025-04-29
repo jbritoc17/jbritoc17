@@ -3,7 +3,7 @@
 
 🎯 Frontend Developer en crecimiento, apasionado por crear interfaces limpias, accesibles y modernas. Me encanta aprender, mejorar constantemente y compartir mis proyectos.
 
-![Portada](https://github.com/jbritoc17/jbritoc17/raw/main/portadagithub.gif)
+![Portada](https://github.com/jbritoc17/jbritoc17/raw/main/portadagithub3.png)
 
 ## 🛠️ Tecnologías
 
