@@ -14,7 +14,7 @@
 ## 🚀 Proyectos Destacados
 
 - 🎴 [Tarjeta de perfil interactiva](https://jbritoc17.github.io/proyecto-tarjeta) – HTML, CSS, Bootstrap, JS  
-- 🛍️ [eCommerce con React y Tailwind](#) – En desarrollo...
+- 🛍️ [eCommerce con React y Tailwind](https://app.netlify.com/sites/dalanyecomercefrontend/) – En desarrollo...
 
 ## 📫 Contacto
 
