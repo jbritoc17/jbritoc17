@@ -1,3 +1,4 @@
+![Portada](https://github.com/jbritoc17/jbritoc17/raw/main/portada%20(2).png)
 # 👋 ¡Hola! Soy Jean Brito
 
 🎯 Frontend Developer en crecimiento, apasionado por crear interfaces limpias, accesibles y modernas. Me encanta aprender, mejorar constantemente y compartir mis proyectos.
@@ -31,7 +32,6 @@
 - [GitHub](https://github.com/jbritoc17)
 
 ---
-![Portada](https://github.com/jbritoc17/jbritoc17/raw/main/portada%20(2).png)
 
 
 *"Cada paso me acerca a mi mejor versión."*
