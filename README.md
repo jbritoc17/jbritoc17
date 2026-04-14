@@ -1,7 +1,13 @@
 
 # 👋 ¡Hola! Soy Jean Brito
 
-🎯 Frontend Developer en crecimiento, apasionado por crear interfaces limpias, accesibles y modernas. Me encanta aprender, mejorar constantemente y compartir mis proyectos.
+🎯 Analista de datos en formación con conocimientos en SQL, Excel y desarrollo web. Me especializo en la organización, análisis y estructuración de información para generar soluciones claras y eficientes.
+
+Cuento con experiencia en proyectos tecnológicos utilizando JavaScript, React y consumo de APIs, lo que me permite complementar el análisis de datos con herramientas digitales.
+
+Me caracterizo por ser una persona organizada, orientada a resultados y con pensamiento lógico, con interés en roles relacionados con análisis de datos, gestión de información y tecnología.
+
+Actualmente me encuentro en formación en Contaduría Pública, fortaleciendo mis habilidades en manejo y análisis de información.
 
 ![Portada](https://github.com/jbritoc17/jbritoc17/raw/main/portadagithub3.png)
 
